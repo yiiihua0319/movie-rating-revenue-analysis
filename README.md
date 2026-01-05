@@ -22,7 +22,7 @@ This question matters for:
 
 ## Data Source
 
-* Kaggle Dataset: “Are popular movies good?” https://www.kaggle.com/code/michau96/are-popular-movies-good/notebook
+* Kaggle Dataset: [Are popular movies good?](https://www.kaggle.com/code/michau96/are-popular-movies-good/notebook)
 * Original size: approximately 10,000 movies
 * Final sample: 929 movies (after cleaning and filtering)
 
