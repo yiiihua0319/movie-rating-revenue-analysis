@@ -71,8 +71,6 @@ Key steps:
 * Rating and Votes: 0.39
 * Runtime and Year show limited explanatory power
 
-Overall, popularity is far more predictive of revenue than perceived quality alone.
-
 <img width="336" height="297" alt="Screenshot 2026-01-04 at 9 16 17 PM" src="https://github.com/user-attachments/assets/5fc2cf18-d3f3-4901-bca2-c687bcbb517a" />
 
 ---
